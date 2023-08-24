@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @scobo-go
+- 👀 I’m interested in automation testing
+- 🌱 I’m currently learning C lenguage
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
